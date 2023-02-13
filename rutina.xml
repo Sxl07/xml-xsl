@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rut.xsl"?>
+<RutinaSemanal>
+<Dia dh="Lunes">
+<TipoDeEjercicios>Dia de empuje</TipoDeEjercicios>
+<GruposMuscularesATrabajar>Pecho, Triceps y Hombros</GruposMuscularesATrabajar>
+<Musculo>Pecho:
+Press inclinado con barra 
+Press plano con barra 
+Cruces con polea media 
+Fondos en barras paralelas
+
+Triceps: 
+Extensiones en polea
+extension de triceps por encima de la cabeza
+
+Hombros:Vuelos laterales
+Press militar
+Pajaros con mancuernas
+</Musculo>
+</Dia>
+
+<Dia dh="Martes">
+<TipoDeEjercicios>Dia de jalon</TipoDeEjercicios>
+<GruposMuscularesATrabajar>Espalda y Biceps</GruposMuscularesATrabajar>
+<Musculo>Espalda:
+Dominadas
+Jalones al pecho
+Remo en polea
+Rack pulls 
+
+Biceps:
+Curl con mancuerna abierto
+Curl biceps polea baja
+Curl biceps con barra</Musculo>
+</Dia>
+
+
+
+
+<Dia dh="Miercoles">
+<TipoDeEjercicios>Dia de Pierna</TipoDeEjercicios>
+<GruposMuscularesATrabajar>Piernas (Parte delantera)</GruposMuscularesATrabajar>
+<Musculo>Cuadriceps:
+Sentadilla con barra libre
+Extension de cuadriceps 
+Prensa
+
+Abductores:
+Sentadilla sumo
+Abductores en maquina
+
+Gemelos:
+Elevacion de pies
+Press de gemelos</Musculo>
+</Dia>
+
+<Dia dh="Jueves">
+<TipoDeEjercicios>Dia de empuje</TipoDeEjercicios>
+<GruposMuscularesATrabajar>Pecho, Triceps y Hombros</GruposMuscularesATrabajar>
+<Musculo>Pecho: 
+Press inclinado con barra
+Press plano con barra
+Cruces con polea media
+Fondos en barras paralelas
+
+Triceps:
+extensiones en polea
+extension de triceps por encima de la cabeza
+    
+Hombros:
+Vuelos laterales
+Press militar
+Pajaros con mancuernas</Musculo>
+
+</Dia>
+
+<Dia dh="Viernes">
+<TipoDeEjercicios>Dia de jalon</TipoDeEjercicios>
+<GruposMuscularesATrabajar>Espalda y Biceps</GruposMuscularesATrabajar>
+<Musculo>Espalda:
+Dominadas
+Jalones al pecho
+Remo en polea
+Rack pulls
+
+Biceps:
+Curl con mancuerna abierto
+    Curl biceps polea baja
+Curl biceps con barra</Musculo>
+</Dia>
+
+<Dia dh="Sabado">
+<TipoDeEjercicios>Dia de Pierna</TipoDeEjercicios>
+<GruposMuscularesATrabajar>Piernas (Parte trasera)</GruposMuscularesATrabajar>
+<Musculo>Femorales:
+Peso muerto
+Curl nordico 
+Curl de femoral sentado
+
+Gluteo:
+Hiperextensiones 
+Patada gluteo
+Hip thrust
+
+Gemelos:
+Elevacion de pies 
+Press de gemelos</Musculo>
+</Dia>
+
+<Dia dh="Domingo">
+<TipoDeEjercicios>Dia de Descanso</TipoDeEjercicios>
+<GruposMuscularesATrabajar>Ninguno</GruposMuscularesATrabajar>
+<Musculo>Ninguno</Musculo>
+</Dia>
+</RutinaSemanal>
